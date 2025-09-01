@@ -1,1 +1,45 @@
 /*  your css code here. If applicable */
+body {
+	background-color: #f6f6f6;
+}
+.block-heading {
+	color: #3b99e0;
+	text-align: center;
+}
+.product .info {
+	font-size: 14px;
+}
+.product {
+	
+}
+.product img {
+	width: 25%;
+	object-fit: contain;
+}
+.summary {
+	height: 100%;
+	border-top: 3px solid #5ea4f3;
+	background-color: #f7fbff;
+}
+.summary .calculation > p {
+	display: flex;
+	justify-content: space-between;
+	border-bottom: 2px solid #eee;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
