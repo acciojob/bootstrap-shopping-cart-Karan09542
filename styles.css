@@ -9,8 +9,9 @@ body {
 .product .info {
 	font-size: 14px;
 }
-.product {
-	
+.product  a {
+	color:#3b99e0;
+	text-decoration: none;
 }
 .product img {
 	width: 25%;
